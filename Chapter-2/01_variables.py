@@ -1,0 +1,10 @@
+# Variables are used to store data values. A variable is a name given to a memory location where the data is stored. It is the basic unit of storage in a program. The value stored in a variable can be changed during program execution. A variable is created the moment you first assign a value to it. Variables do not need to be declared with any particular type and can even change type after they have been set. In Python, variables are created when you assign a value to it. Variables do not need to be declared with any particular type and can even change type after they have been set. Python is a dynamically typed language. Python variables do not need explicit declaration to reserve memory space. The declaration happens automatically when a value is assigned to a variable. The equal sign (=) is used to assign values to variables. The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. For example, a = 1, here "a" is a variable which stores the value 1. Variables can be assigned different types of values. For example, a = 1, b = 2, c = a+b, name = "Rajendra". Here, "a", "b", "c", and "name" are variables. "a" and "b" are variables which store integer values 1 and 2 respectively. "c" is a variable which adds "a" and "b". "name" is a variable which stores a string value "Rajendra". Variables can be printed using the print() function. For example, print(c), print(name). Here, the print() function prints the value of "c" and "name" respectively. In this snippet, we have used variables to store integer and string values and printed the values of the variables using the print() function. The output of the program will be the value of the variables "c" and "name" which are 3 and "Rajendra" respectively.
+
+a = 1  # "a" is a variable
+b = 2  # "b" is a variable
+c = a+b  # "c" is a variable which adds "a" and "b"
+print(c)  # prints the value of "c"
+
+name = "Rajendra"  # "name" is a variable which stores a string value "Rajendra" where "" or '' is identyfing the string
+print(name)  # prints the value of "name"
+
