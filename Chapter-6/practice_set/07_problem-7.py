@@ -4,7 +4,7 @@ keyword = "Raja"
 
 post = input("Enter your post: ")
 
-if keyword in post:
+if keyword.lower() in post.lower():
     print("This post is talking about Raja.")
 else:
     print("This post is not about Raja")
