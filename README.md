@@ -53,4 +53,3 @@ This repository is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-You can copy this content into your README.md file. If there are any specific sections or additional details you would like to include, please let me know!
